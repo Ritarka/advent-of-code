@@ -47,7 +47,7 @@ int main() {
             run = run * 10 + largest_num;
             // printf("Largest num: %d, run: %llu\n", largest_num, run);
         }
-        printf("%llu\n", run);
+        // printf("%llu\n", run);
         sum += run;
 
     }
